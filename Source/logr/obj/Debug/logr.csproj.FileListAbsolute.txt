@@ -1,0 +1,48 @@
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.csprojAssemblyReference.cache
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.Form1.resources
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.Properties.Resources.resources
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.csproj.GenerateResource.cache
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.csproj.CoreCompileInputs.cache
+C:\Users\poenk\Desktop\logr\logr\bin\Debug\logr.exe.config
+C:\Users\poenk\Desktop\logr\logr\bin\Debug\logr.exe
+C:\Users\poenk\Desktop\logr\logr\bin\Debug\logr.pdb
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.exe
+C:\Users\poenk\Desktop\logr\logr\obj\Debug\logr.pdb
+C:\Users\poenk\Desktop\курс\logr\logr\bin\Debug\logr.exe.config
+C:\Users\poenk\Desktop\курс\logr\logr\bin\Debug\logr.exe
+C:\Users\poenk\Desktop\курс\logr\logr\bin\Debug\logr.pdb
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.csprojAssemblyReference.cache
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.Form1.resources
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.Properties.Resources.resources
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.csproj.GenerateResource.cache
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.csproj.CoreCompileInputs.cache
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.exe
+C:\Users\poenk\Desktop\курс\logr\logr\obj\Debug\logr.pdb
+C:\Users\poenk\Desktop\lg_reg\logr\logr\bin\Debug\logr.exe.config
+C:\Users\poenk\Desktop\lg_reg\logr\logr\bin\Debug\logr.exe
+C:\Users\poenk\Desktop\lg_reg\logr\logr\bin\Debug\logr.pdb
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.csprojAssemblyReference.cache
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.Properties.Resources.resources
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.csproj.GenerateResource.cache
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.csproj.CoreCompileInputs.cache
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.exe
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.pdb
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.Form_menu.resources
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.Form1.resources
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.Form_theory.resources
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.frm_set.resources
+C:\Users\poenk\Desktop\lg_reg\logr\logr\obj\Debug\logr.frm_titul.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.csprojAssemblyReference.cache
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.Form_menu.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.Form1.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.Form_theory.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.frm_set.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.frm_titul.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.Properties.Resources.resources
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.csproj.GenerateResource.cache
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\logr.csproj.CoreCompileInputs.cache
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\bin\Debug\Project_Poienko.exe.config
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\bin\Debug\Project_Poienko.exe
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\bin\Debug\Project_Poienko.pdb
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\Project_Poienko.exe
+C:\Users\poenk\Desktop\Захист Поєнко\Source\logr\obj\Debug\Project_Poienko.pdb
